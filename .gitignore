@@ -5,4 +5,4 @@
 temp/
 
 # ignore .DS_Store MacOS preferences file
-.DS_Store/
+*.DS_Store/
